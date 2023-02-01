@@ -1,7 +1,5 @@
-# PoliticaPrivacidadeGuiaNutri
-Politica de Privacidade do App Guia do Nutricionista
+# Política de Privacidade do Guia do Nutricionista
 
-Política de Privacidade do Guia do Nutricionista
 Para receber informações sobre os seus dados pessoais, os propósitos e as partes de informação que são compartilhadas, entre em contato com o Proprietário.
 
 Proprietário e Controlador de Dados
